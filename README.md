@@ -1,6 +1,6 @@
 # Word finder
 
-_Esta aplicación permite obtener la palabra más repetida dentro de un párrafo._
+_Esta aplicación permite obtener la palabra que más se repite dentro de un párrafo._
 
 ## Getting Starter 🚀
 
@@ -222,7 +222,7 @@ Frequency of the words not excluded
 ```
 
 
-### Deberia retornar la palabra "ball".  📖
+### Deberia retornar la palabra "a".  📖
 ```
 Input:
 
