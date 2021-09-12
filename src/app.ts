@@ -1,6 +1,6 @@
 class WordFinder {
 
-  public findWordMostRepeat (paragraph: string, wordsNotAllowed: string[]): string {
+  public findWordMostRepeat (paragraph: string, wordsNotAllowed: string[] | any[]): string {
     const words = this.getAllWords(paragraph)
 
     const allowedWords = this.excludeWordsNotAllowed(words, wordsNotAllowed)

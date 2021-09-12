@@ -1,7 +1,7 @@
 {
-  "name": "kavack-test",
+  "name": "word-finder",
   "version": "1.0.0",
-  "description": "",
+  "description": "This application allows you to obtain the most repeated word within a paragraph.",
   "main": "app.ts",
   "scripts": {
     "test": "jest"
