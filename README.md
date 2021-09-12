@@ -1,6 +1,6 @@
 # Word finder
 
-_Esta aplicación permite obtener la palabra más repetida dentro de un parrafo._
+_Esta aplicación permite obtener la palabra más repetida dentro de un párrafo._
 
 ## Getting Starter 🚀
 
